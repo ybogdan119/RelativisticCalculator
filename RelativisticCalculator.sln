@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativisticCalculator.API", "RelativisticCalculator.API\RelativisticCalculator.API.csproj", "{6A5A0661-54A2-4BF8-B093-5510331F2E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativisticCalculator.Tests", "RelativisticCalculator.Tests\RelativisticCalculator.Tests.csproj", "{2F97BB4D-ED5B-4C3F-8711-A989823AABC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5A0661-54A2-4BF8-B093-5510331F2E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5A0661-54A2-4BF8-B093-5510331F2E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5A0661-54A2-4BF8-B093-5510331F2E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5A0661-54A2-4BF8-B093-5510331F2E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F97BB4D-ED5B-4C3F-8711-A989823AABC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F97BB4D-ED5B-4C3F-8711-A989823AABC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F97BB4D-ED5B-4C3F-8711-A989823AABC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F97BB4D-ED5B-4C3F-8711-A989823AABC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

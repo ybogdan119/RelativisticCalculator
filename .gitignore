@@ -1,0 +1,89 @@
+# Rider-specific
+.idea/
+*.sln.iml
+
+# Build results
+bin/
+obj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+# dotCover
+*.dotCover
+
+# Configuration files
+appsettings.*.json
+secrets.json
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and cache
+*.pid
+*.pid.lock
+*.log
+logs/
+*.cache
+.cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider plugin/system files
+.idea/
+.idea_modules/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/shelf/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/**/dataSources.xml
+.idea/**/dataSources.ids
+.idea/**/dataSources-config.json
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp
